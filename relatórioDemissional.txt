@@ -1,0 +1,13 @@
+##############################
+    Relatorio Demissional
+##############################
+Cargo: 
+Nome: 
+CPF: 
+Matrícula: 72.102-0
+Data de ingresso: 701783208/32764/-659282480
+Data de demissão: 23/7/2025
+********************************
+Valor de rescisão: R$ -1
+********************************
+Tempo de Trabalho: -1594767 anos, -6 meses e -11 dias
