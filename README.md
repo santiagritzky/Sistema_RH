@@ -25,8 +25,10 @@ O sistema oferece as seguintes funcionalidades:
 3. Navegue até o diretório raiz do projeto.
 4. Compile o código-fonte executando o comando `make`.
 5. Execute o programa gerado, geralmente denominado `main` ou `main.exe`.
-
-## Limitações e Melhorias Futuras
+   
+## Status
+ - Em desenvolvimento
+<!--## Limitações e Melhorias Futuras
 
 Este sistema é uma versão inicial e possui algumas limitações, como:
 
@@ -38,4 +40,4 @@ Algumas melhorias futuras podem incluir:
 
 - Implementação de persistência de dados em um banco de dados.
 - Adição de recursos de autenticação e permissões para diferentes níveis de usuários.
-- Aprimoramento da interface do usuário com uma interface gráfica amigável.
+- Aprimoramento da interface do usuário com uma interface gráfica amigável.--!>
